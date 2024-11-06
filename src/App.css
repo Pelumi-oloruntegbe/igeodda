@@ -1,0 +1,18 @@
+#file {
+  background-color: white;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid #ccccccb2;
+  width: 400px;
+  height: 40px;
+  color: black;
+}
+
+::-webkit-file-upload-button {
+  background-color: #ccccccb2;
+  border: none;
+  height: 40px;
+  width: 90px;
+  padding: 5px;
+  color: black;
+}
